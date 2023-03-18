@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'PingFang SC';
+    src: local('PingFang SC Semibold'), local('SFProPingFangSC-Semibold'),
+        url('SFProPingFangSC-Semibold.woff2') format('woff2'),
+        url('SFProPingFangSC-Semibold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: local('PingFang SC Regular'), local('SFProPingFangSC-Regular'),
+        url('SFProPingFangSC-Regular.woff2') format('woff2'),
+        url('SFProPingFangSC-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'PingFang SC';
+    src: local('PingFang SC Medium'), local('SFProPingFangSC-Medium'),
+        url('SFProPingFangSC-Medium.woff2') format('woff2'),
+        url('SFProPingFangSC-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+}
+
